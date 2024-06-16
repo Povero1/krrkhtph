@@ -1,0 +1,34 @@
+{
+    "Tickets_Support": [
+        {
+            "userid": "1004895478569259079",
+            "time": "<t:1708230183:R>",
+            "claim": "860318175421530132",
+            "transcrept": "https://mahto.id/chat-exporter?url=https://cdn.discordapp.com/attachments/1198771324294807562/1208632155584856135/claimed-midd.html?ex=65e3fd69&is=65d18869&hm=5227955a464198f8d0abf9f2eec7362636659238fb41d356a6b0989b9c859f25&",
+            "Buys": "تم شراء روم خاص 7 ايامتم شراء منشور مميز ايفري",
+            "NameTicket": "support-34",
+            "Ticket": "1208629733009391637",
+            "type": "close"
+        },
+        {
+            "userid": "1004895478569259079",
+            "time": "<t:1708230183:R>",
+            "claim": "860318175421530132",
+            "transcrept": "https://mahto.id/chat-exporter?url=https://cdn.discordapp.com/attachments/1198771324294807562/1208632155584856135/claimed-midd.html?ex=65e3fd69&is=65d18869&hm=5227955a464198f8d0abf9f2eec7362636659238fb41d356a6b0989b9c859f25&",
+            "Buys": "تم شراء روم خاص 7 ايامتم شراء منشور مميز ايفري",
+            "NameTicket": "support-36",
+            "Ticket": "1208629733009341637",
+            "type": "close"
+        },
+        {
+            "userid": "1004895478569259079",
+            "time": "<t:1708231363:R>",
+            "claim": null,
+            "transcrept": "https://mahto.id/chat-exporter?url=https://cdn.discordapp.com/attachments/1198771324294807562/1208635081997025360/support-35.html?ex=65e40022&is=65d18b22&hm=528c9374c3b8189ced455c966afd525247591a61b6b9fd7ee083f3c4e9f8c6b5&",
+            "Buys": null,
+            "NameTicket": "support-37",
+            "Ticket": "1208634681755439165",
+            "type": "close"
+        }
+    ]
+}
